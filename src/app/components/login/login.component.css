@@ -1,0 +1,39 @@
+.wrapper{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    height: 100%;
+}
+
+.custom-form-control{
+
+    background-color: transparent;
+}
+
+.fondoblanco{
+
+    background-color: white;
+}
+
+.footer {
+
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+   
+    text-align: center;
+
+}
+
+.botonhover1:hover {
+
+    background-color: white;
+    color:black;
+}
+
+.blanco{
+
+    color:white
+}
